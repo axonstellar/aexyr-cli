@@ -22,3 +22,8 @@ logs/
 
 # TypeScript cache
 *.tsbuildinfo
+
+# Internal project documentation (agent-only, not published)
+service_blueprint.md
+service_changelog.md
+service_pitfalls.md
